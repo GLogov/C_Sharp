@@ -1,2 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+
+/* Задания находятся на ветках:
+task2
+task4
+task6
+task8
+*/
+
+
